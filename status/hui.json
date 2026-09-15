@@ -1,0 +1,25 @@
+{
+  "member": "hui",
+  "lastCheckedAt": "2026-09-15T05:17:42.605Z",
+  "lastError": null,
+  "accepted": {
+    "1": {
+      "status": "Accepted",
+      "problemId": 1,
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "submissionId": "1889373961",
+      "timestamp": "1768784720",
+      "detectedAt": "2026-09-15T05:07:13.575Z"
+    },
+    "2": {
+      "status": "Accepted",
+      "problemId": 2,
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "submissionId": "1889620780",
+      "timestamp": "1768808253",
+      "detectedAt": "2026-09-15T05:07:13.575Z"
+    }
+  }
+}
