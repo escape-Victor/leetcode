@@ -1,0 +1,1620 @@
+{
+  "name": "Three-Month LeetCode Plan",
+  "start": "2026-09-16",
+  "end": "2026-12-15",
+  "timezone": "Asia/Shanghai",
+  "days": [
+    {
+      "date": "2026-09-16",
+      "week": 1,
+      "topic": "数组、哈希",
+      "problems": [
+        {
+          "id": 1,
+          "title": "Two Sum",
+          "optional": false
+        },
+        {
+          "id": 217,
+          "title": "Contains Duplicate",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "week": 1,
+      "topic": "数组、哈希",
+      "problems": [
+        {
+          "id": 242,
+          "title": "Valid Anagram",
+          "optional": false
+        },
+        {
+          "id": 49,
+          "title": "Group Anagrams",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "week": 1,
+      "topic": "数组、哈希",
+      "problems": [
+        {
+          "id": 347,
+          "title": "Top K Frequent Elements",
+          "optional": false
+        },
+        {
+          "id": 36,
+          "title": "Valid Sudoku",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "week": 1,
+      "topic": "数组、哈希",
+      "problems": [
+        {
+          "id": 128,
+          "title": "Longest Consecutive Sequence",
+          "optional": false
+        },
+        {
+          "id": 238,
+          "title": "Product of Array Except Self",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "week": 1,
+      "topic": "数组、哈希",
+      "problems": [
+        {
+          "id": 53,
+          "title": "Maximum Subarray",
+          "optional": false
+        },
+        {
+          "id": 121,
+          "title": "Best Time to Buy and Sell Stock",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "week": 1,
+      "topic": "数组、哈希",
+      "problems": [
+        {
+          "id": 88,
+          "title": "Merge Sorted Array",
+          "optional": false
+        },
+        {
+          "id": 26,
+          "title": "Remove Duplicates from Sorted Array",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "week": 1,
+      "topic": "数组、哈希",
+      "problems": [
+        {
+          "id": 27,
+          "title": "Remove Element",
+          "optional": false
+        },
+        {
+          "id": 189,
+          "title": "Rotate Array",
+          "optional": false
+        },
+        {
+          "id": 169,
+          "title": "Majority Element",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "week": 2,
+      "topic": "双指针、滑动窗口",
+      "problems": [
+        {
+          "id": 125,
+          "title": "Valid Palindrome",
+          "optional": false
+        },
+        {
+          "id": 167,
+          "title": "Two Sum II - Input Array Is Sorted",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "week": 2,
+      "topic": "双指针、滑动窗口",
+      "problems": [
+        {
+          "id": 283,
+          "title": "Move Zeroes",
+          "optional": false
+        },
+        {
+          "id": 344,
+          "title": "Reverse String",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "week": 2,
+      "topic": "双指针、滑动窗口",
+      "problems": [
+        {
+          "id": 977,
+          "title": "Squares of a Sorted Array",
+          "optional": false
+        },
+        {
+          "id": 11,
+          "title": "Container With Most Water",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "week": 2,
+      "topic": "双指针、滑动窗口",
+      "problems": [
+        {
+          "id": 15,
+          "title": "3Sum",
+          "optional": false
+        },
+        {
+          "id": 16,
+          "title": "3Sum Closest",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "week": 2,
+      "topic": "双指针、滑动窗口",
+      "problems": [
+        {
+          "id": 3,
+          "title": "Longest Substring Without Repeating Characters",
+          "optional": false
+        },
+        {
+          "id": 209,
+          "title": "Minimum Size Subarray Sum",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "week": 2,
+      "topic": "双指针、滑动窗口",
+      "problems": [
+        {
+          "id": 438,
+          "title": "Find All Anagrams in a String",
+          "optional": false
+        },
+        {
+          "id": 567,
+          "title": "Permutation in String",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "week": 2,
+      "topic": "双指针、滑动窗口",
+      "problems": [
+        {
+          "id": 424,
+          "title": "Longest Repeating Character Replacement",
+          "optional": false
+        },
+        {
+          "id": 713,
+          "title": "Subarray Product Less Than K",
+          "optional": false
+        },
+        {
+          "id": 76,
+          "title": "Minimum Window Substring",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "week": 3,
+      "topic": "二分、排序、区间",
+      "problems": [
+        {
+          "id": 704,
+          "title": "Binary Search",
+          "optional": false
+        },
+        {
+          "id": 35,
+          "title": "Search Insert Position",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "week": 3,
+      "topic": "二分、排序、区间",
+      "problems": [
+        {
+          "id": 69,
+          "title": "Sqrt(x)",
+          "optional": false
+        },
+        {
+          "id": 367,
+          "title": "Valid Perfect Square",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "week": 3,
+      "topic": "二分、排序、区间",
+      "problems": [
+        {
+          "id": 34,
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "optional": false
+        },
+        {
+          "id": 33,
+          "title": "Search in Rotated Sorted Array",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "week": 3,
+      "topic": "二分、排序、区间",
+      "problems": [
+        {
+          "id": 153,
+          "title": "Find Minimum in Rotated Sorted Array",
+          "optional": false
+        },
+        {
+          "id": 162,
+          "title": "Find Peak Element",
+          "optional": false
+        },
+        {
+          "id": 74,
+          "title": "Search a 2D Matrix",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "week": 3,
+      "topic": "二分、排序、区间",
+      "problems": [
+        {
+          "id": 875,
+          "title": "Koko Eating Bananas",
+          "optional": false
+        },
+        {
+          "id": 1011,
+          "title": "Capacity To Ship Packages Within D Days",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "week": 3,
+      "topic": "二分、排序、区间",
+      "problems": [
+        {
+          "id": 56,
+          "title": "Merge Intervals",
+          "optional": false
+        },
+        {
+          "id": 57,
+          "title": "Insert Interval",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "week": 3,
+      "topic": "二分、排序、区间",
+      "problems": [
+        {
+          "id": 435,
+          "title": "Non-overlapping Intervals",
+          "optional": false
+        },
+        {
+          "id": 452,
+          "title": "Minimum Number of Arrows to Burst Balloons",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "week": 4,
+      "topic": "链表、栈、队列",
+      "problems": [
+        {
+          "id": 206,
+          "title": "Reverse Linked List",
+          "optional": false
+        },
+        {
+          "id": 21,
+          "title": "Merge Two Sorted Lists",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "week": 4,
+      "topic": "链表、栈、队列",
+      "problems": [
+        {
+          "id": 83,
+          "title": "Remove Duplicates from Sorted List",
+          "optional": false
+        },
+        {
+          "id": 141,
+          "title": "Linked List Cycle",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "week": 4,
+      "topic": "链表、栈、队列",
+      "problems": [
+        {
+          "id": 142,
+          "title": "Linked List Cycle II",
+          "optional": false
+        },
+        {
+          "id": 160,
+          "title": "Intersection of Two Linked Lists",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "week": 4,
+      "topic": "链表、栈、队列",
+      "problems": [
+        {
+          "id": 19,
+          "title": "Remove Nth Node From End of List",
+          "optional": false
+        },
+        {
+          "id": 24,
+          "title": "Swap Nodes in Pairs",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "week": 4,
+      "topic": "链表、栈、队列",
+      "problems": [
+        {
+          "id": 2,
+          "title": "Add Two Numbers",
+          "optional": false
+        },
+        {
+          "id": 138,
+          "title": "Copy List with Random Pointer",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "week": 4,
+      "topic": "链表、栈、队列",
+      "problems": [
+        {
+          "id": 20,
+          "title": "Valid Parentheses",
+          "optional": false
+        },
+        {
+          "id": 155,
+          "title": "Min Stack",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "week": 4,
+      "topic": "链表、栈、队列",
+      "problems": [
+        {
+          "id": 150,
+          "title": "Evaluate Reverse Polish Notation",
+          "optional": false
+        },
+        {
+          "id": 739,
+          "title": "Daily Temperatures",
+          "optional": false
+        },
+        {
+          "id": 232,
+          "title": "Implement Queue using Stacks",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "week": 5,
+      "topic": "二叉树、BST",
+      "problems": [
+        {
+          "id": 104,
+          "title": "Maximum Depth of Binary Tree",
+          "optional": false
+        },
+        {
+          "id": 100,
+          "title": "Same Tree",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "week": 5,
+      "topic": "二叉树、BST",
+      "problems": [
+        {
+          "id": 101,
+          "title": "Symmetric Tree",
+          "optional": false
+        },
+        {
+          "id": 226,
+          "title": "Invert Binary Tree",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "week": 5,
+      "topic": "二叉树、BST",
+      "problems": [
+        {
+          "id": 112,
+          "title": "Path Sum",
+          "optional": false
+        },
+        {
+          "id": 543,
+          "title": "Diameter of Binary Tree",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "week": 5,
+      "topic": "二叉树、BST",
+      "problems": [
+        {
+          "id": 110,
+          "title": "Balanced Binary Tree",
+          "optional": false
+        },
+        {
+          "id": 257,
+          "title": "Binary Tree Paths",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "week": 5,
+      "topic": "二叉树、BST",
+      "problems": [
+        {
+          "id": 102,
+          "title": "Binary Tree Level Order Traversal",
+          "optional": false
+        },
+        {
+          "id": 199,
+          "title": "Binary Tree Right Side View",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "week": 5,
+      "topic": "二叉树、BST",
+      "problems": [
+        {
+          "id": 98,
+          "title": "Validate Binary Search Tree",
+          "optional": false
+        },
+        {
+          "id": 230,
+          "title": "Kth Smallest Element in a BST",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "week": 5,
+      "topic": "二叉树、BST",
+      "problems": [
+        {
+          "id": 236,
+          "title": "Lowest Common Ancestor of a Binary Tree",
+          "optional": false
+        },
+        {
+          "id": 105,
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "optional": false
+        },
+        {
+          "id": 106,
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "week": 6,
+      "topic": "树遍历、堆、Trie",
+      "problems": [
+        {
+          "id": 94,
+          "title": "Binary Tree Inorder Traversal",
+          "optional": false
+        },
+        {
+          "id": 144,
+          "title": "Binary Tree Preorder Traversal",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "week": 6,
+      "topic": "树遍历、堆、Trie",
+      "problems": [
+        {
+          "id": 145,
+          "title": "Binary Tree Postorder Traversal",
+          "optional": false
+        },
+        {
+          "id": 114,
+          "title": "Flatten Binary Tree to Linked List",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "week": 6,
+      "topic": "树遍历、堆、Trie",
+      "problems": [
+        {
+          "id": 703,
+          "title": "Kth Largest Element in a Stream",
+          "optional": false
+        },
+        {
+          "id": 215,
+          "title": "Kth Largest Element in an Array",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "week": 6,
+      "topic": "树遍历、堆、Trie",
+      "problems": [
+        {
+          "id": 973,
+          "title": "K Closest Points to Origin",
+          "optional": false
+        },
+        {
+          "id": 1046,
+          "title": "Last Stone Weight",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "week": 6,
+      "topic": "树遍历、堆、Trie",
+      "problems": [
+        {
+          "id": 692,
+          "title": "Top K Frequent Words",
+          "optional": false
+        },
+        {
+          "id": 373,
+          "title": "Find K Pairs with Smallest Sums",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "week": 6,
+      "topic": "树遍历、堆、Trie",
+      "problems": [
+        {
+          "id": 621,
+          "title": "Task Scheduler",
+          "optional": false
+        },
+        {
+          "id": 208,
+          "title": "Implement Trie (Prefix Tree)",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "week": 6,
+      "topic": "树遍历、堆、Trie",
+      "problems": [
+        {
+          "id": 211,
+          "title": "Design Add and Search Words Data Structure",
+          "optional": false
+        },
+        {
+          "id": 648,
+          "title": "Replace Words",
+          "optional": false
+        },
+        {
+          "id": 295,
+          "title": "Find Median from Data Stream",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "week": 7,
+      "topic": "回溯、分治",
+      "problems": [
+        {
+          "id": 78,
+          "title": "Subsets",
+          "optional": false
+        },
+        {
+          "id": 90,
+          "title": "Subsets II",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "week": 7,
+      "topic": "回溯、分治",
+      "problems": [
+        {
+          "id": 46,
+          "title": "Permutations",
+          "optional": false
+        },
+        {
+          "id": 47,
+          "title": "Permutations II",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "week": 7,
+      "topic": "回溯、分治",
+      "problems": [
+        {
+          "id": 77,
+          "title": "Combinations",
+          "optional": false
+        },
+        {
+          "id": 39,
+          "title": "Combination Sum",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "week": 7,
+      "topic": "回溯、分治",
+      "problems": [
+        {
+          "id": 40,
+          "title": "Combination Sum II",
+          "optional": false
+        },
+        {
+          "id": 17,
+          "title": "Letter Combinations of a Phone Number",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "week": 7,
+      "topic": "回溯、分治",
+      "problems": [
+        {
+          "id": 22,
+          "title": "Generate Parentheses",
+          "optional": false
+        },
+        {
+          "id": 79,
+          "title": "Word Search",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "week": 7,
+      "topic": "回溯、分治",
+      "problems": [
+        {
+          "id": 131,
+          "title": "Palindrome Partitioning",
+          "optional": false
+        },
+        {
+          "id": 93,
+          "title": "Restore IP Addresses",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "week": 7,
+      "topic": "回溯、分治",
+      "problems": [
+        {
+          "id": 241,
+          "title": "Different Ways to Add Parentheses",
+          "optional": false
+        },
+        {
+          "id": 108,
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "optional": false
+        },
+        {
+          "id": 51,
+          "title": "N-Queens",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "week": 8,
+      "topic": "图论基础、DFS/BFS、拓扑排序、并查集",
+      "problems": [
+        {
+          "id": 200,
+          "title": "Number of Islands",
+          "optional": false
+        },
+        {
+          "id": 695,
+          "title": "Max Area of Island",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "week": 8,
+      "topic": "图论基础、DFS/BFS、拓扑排序、并查集",
+      "problems": [
+        {
+          "id": 733,
+          "title": "Flood Fill",
+          "optional": false
+        },
+        {
+          "id": 130,
+          "title": "Surrounded Regions",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "week": 8,
+      "topic": "图论基础、DFS/BFS、拓扑排序、并查集",
+      "problems": [
+        {
+          "id": 417,
+          "title": "Pacific Atlantic Water Flow",
+          "optional": false
+        },
+        {
+          "id": 994,
+          "title": "Rotting Oranges",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "week": 8,
+      "topic": "图论基础、DFS/BFS、拓扑排序、并查集",
+      "problems": [
+        {
+          "id": 133,
+          "title": "Clone Graph",
+          "optional": false
+        },
+        {
+          "id": 841,
+          "title": "Keys and Rooms",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "week": 8,
+      "topic": "图论基础、DFS/BFS、拓扑排序、并查集",
+      "problems": [
+        {
+          "id": 797,
+          "title": "All Paths From Source to Target",
+          "optional": false
+        },
+        {
+          "id": 207,
+          "title": "Course Schedule",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "week": 8,
+      "topic": "图论基础、DFS/BFS、拓扑排序、并查集",
+      "problems": [
+        {
+          "id": 210,
+          "title": "Course Schedule II",
+          "optional": false
+        },
+        {
+          "id": 547,
+          "title": "Number of Provinces",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "week": 8,
+      "topic": "图论基础、DFS/BFS、拓扑排序、并查集",
+      "problems": [
+        {
+          "id": 684,
+          "title": "Redundant Connection",
+          "optional": false
+        },
+        {
+          "id": 990,
+          "title": "Satisfiability of Equality Equations",
+          "optional": false
+        },
+        {
+          "id": 721,
+          "title": "Accounts Merge",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "week": 9,
+      "topic": "最短路、MST、图论进阶",
+      "problems": [
+        {
+          "id": 743,
+          "title": "Network Delay Time",
+          "optional": false
+        },
+        {
+          "id": 787,
+          "title": "Cheapest Flights Within K Stops",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "week": 9,
+      "topic": "最短路、MST、图论进阶",
+      "problems": [
+        {
+          "id": 1631,
+          "title": "Path With Minimum Effort",
+          "optional": false
+        },
+        {
+          "id": 1514,
+          "title": "Path with Maximum Probability",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "week": 9,
+      "topic": "最短路、MST、图论进阶",
+      "problems": [
+        {
+          "id": 1334,
+          "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+          "optional": false
+        },
+        {
+          "id": 1584,
+          "title": "Min Cost to Connect All Points",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "week": 9,
+      "topic": "最短路、MST、图论进阶",
+      "problems": [
+        {
+          "id": 752,
+          "title": "Open the Lock",
+          "optional": false
+        },
+        {
+          "id": 433,
+          "title": "Minimum Genetic Mutation",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "week": 9,
+      "topic": "最短路、MST、图论进阶",
+      "problems": [
+        {
+          "id": 399,
+          "title": "Evaluate Division",
+          "optional": false
+        },
+        {
+          "id": 785,
+          "title": "Is Graph Bipartite?",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "week": 9,
+      "topic": "最短路、MST、图论进阶",
+      "problems": [
+        {
+          "id": 886,
+          "title": "Possible Bipartition",
+          "optional": false
+        },
+        {
+          "id": 1319,
+          "title": "Number of Operations to Make Network Connected",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "week": 9,
+      "topic": "最短路、MST、图论进阶",
+      "problems": [
+        {
+          "id": 1971,
+          "title": "Find if Path Exists in Graph",
+          "optional": false
+        },
+        {
+          "id": 1129,
+          "title": "Shortest Path with Alternating Colors",
+          "optional": false
+        },
+        {
+          "id": 127,
+          "title": "Word Ladder",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "week": 10,
+      "topic": "贪心",
+      "problems": [
+        {
+          "id": 55,
+          "title": "Jump Game",
+          "optional": false
+        },
+        {
+          "id": 45,
+          "title": "Jump Game II",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "week": 10,
+      "topic": "贪心",
+      "problems": [
+        {
+          "id": 134,
+          "title": "Gas Station",
+          "optional": false
+        },
+        {
+          "id": 860,
+          "title": "Lemonade Change",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "week": 10,
+      "topic": "贪心",
+      "problems": [
+        {
+          "id": 406,
+          "title": "Queue Reconstruction by Height",
+          "optional": false
+        },
+        {
+          "id": 763,
+          "title": "Partition Labels",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "week": 10,
+      "topic": "贪心",
+      "problems": [
+        {
+          "id": 1029,
+          "title": "Two City Scheduling",
+          "optional": false
+        },
+        {
+          "id": 881,
+          "title": "Boats to Save People",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "week": 10,
+      "topic": "贪心",
+      "problems": [
+        {
+          "id": 1005,
+          "title": "Maximize Sum Of Array After K Negations",
+          "optional": false
+        },
+        {
+          "id": 738,
+          "title": "Monotone Increasing Digits",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "week": 10,
+      "topic": "贪心",
+      "problems": [
+        {
+          "id": 678,
+          "title": "Valid Parenthesis String",
+          "optional": false
+        },
+        {
+          "id": 646,
+          "title": "Maximum Length of Pair Chain",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "week": 10,
+      "topic": "贪心",
+      "problems": [
+        {
+          "id": 376,
+          "title": "Wiggle Subsequence",
+          "optional": false
+        },
+        {
+          "id": 402,
+          "title": "Remove K Digits",
+          "optional": false
+        },
+        {
+          "id": 135,
+          "title": "Candy",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "week": 11,
+      "topic": "动态规划 I：一维 DP、背包",
+      "problems": [
+        {
+          "id": 70,
+          "title": "Climbing Stairs",
+          "optional": false
+        },
+        {
+          "id": 746,
+          "title": "Min Cost Climbing Stairs",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "week": 11,
+      "topic": "动态规划 I：一维 DP、背包",
+      "problems": [
+        {
+          "id": 198,
+          "title": "House Robber",
+          "optional": false
+        },
+        {
+          "id": 213,
+          "title": "House Robber II",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "week": 11,
+      "topic": "动态规划 I：一维 DP、背包",
+      "problems": [
+        {
+          "id": 152,
+          "title": "Maximum Product Subarray",
+          "optional": false
+        },
+        {
+          "id": 300,
+          "title": "Longest Increasing Subsequence",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "week": 11,
+      "topic": "动态规划 I：一维 DP、背包",
+      "problems": [
+        {
+          "id": 322,
+          "title": "Coin Change",
+          "optional": false
+        },
+        {
+          "id": 279,
+          "title": "Perfect Squares",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "week": 11,
+      "topic": "动态规划 I：一维 DP、背包",
+      "problems": [
+        {
+          "id": 139,
+          "title": "Word Break",
+          "optional": false
+        },
+        {
+          "id": 377,
+          "title": "Combination Sum IV",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "week": 11,
+      "topic": "动态规划 I：一维 DP、背包",
+      "problems": [
+        {
+          "id": 416,
+          "title": "Partition Equal Subset Sum",
+          "optional": false
+        },
+        {
+          "id": 494,
+          "title": "Target Sum",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "week": 11,
+      "topic": "动态规划 I：一维 DP、背包",
+      "problems": [
+        {
+          "id": 518,
+          "title": "Coin Change II",
+          "optional": false
+        },
+        {
+          "id": 474,
+          "title": "Ones and Zeroes",
+          "optional": false
+        },
+        {
+          "id": 1049,
+          "title": "Last Stone Weight II",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "week": 12,
+      "topic": "动态规划 II：二维 DP、字符串 DP",
+      "problems": [
+        {
+          "id": 62,
+          "title": "Unique Paths",
+          "optional": false
+        },
+        {
+          "id": 63,
+          "title": "Unique Paths II",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "week": 12,
+      "topic": "动态规划 II：二维 DP、字符串 DP",
+      "problems": [
+        {
+          "id": 64,
+          "title": "Minimum Path Sum",
+          "optional": false
+        },
+        {
+          "id": 120,
+          "title": "Triangle",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "week": 12,
+      "topic": "动态规划 II：二维 DP、字符串 DP",
+      "problems": [
+        {
+          "id": 931,
+          "title": "Minimum Falling Path Sum",
+          "optional": false
+        },
+        {
+          "id": 221,
+          "title": "Maximal Square",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "week": 12,
+      "topic": "动态规划 II：二维 DP、字符串 DP",
+      "problems": [
+        {
+          "id": 1143,
+          "title": "Longest Common Subsequence",
+          "optional": false
+        },
+        {
+          "id": 583,
+          "title": "Delete Operation for Two Strings",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "week": 12,
+      "topic": "动态规划 II：二维 DP、字符串 DP",
+      "problems": [
+        {
+          "id": 712,
+          "title": "Minimum ASCII Delete Sum for Two Strings",
+          "optional": false
+        },
+        {
+          "id": 72,
+          "title": "Edit Distance",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "week": 12,
+      "topic": "动态规划 II：二维 DP、字符串 DP",
+      "problems": [
+        {
+          "id": 97,
+          "title": "Interleaving String",
+          "optional": false
+        },
+        {
+          "id": 516,
+          "title": "Longest Palindromic Subsequence",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "week": 12,
+      "topic": "动态规划 II：二维 DP、字符串 DP",
+      "problems": [
+        {
+          "id": 5,
+          "title": "Longest Palindromic Substring",
+          "optional": false
+        },
+        {
+          "id": 647,
+          "title": "Palindromic Substrings",
+          "optional": false
+        },
+        {
+          "id": 115,
+          "title": "Distinct Subsequences",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "week": 13,
+      "topic": "位运算、前缀和、树状数组、排序",
+      "problems": [
+        {
+          "id": 136,
+          "title": "Single Number",
+          "optional": false
+        },
+        {
+          "id": 191,
+          "title": "Number of 1 Bits",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "week": 13,
+      "topic": "位运算、前缀和、树状数组、排序",
+      "problems": [
+        {
+          "id": 338,
+          "title": "Counting Bits",
+          "optional": false
+        },
+        {
+          "id": 190,
+          "title": "Reverse Bits",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "week": 13,
+      "topic": "位运算、前缀和、树状数组、排序",
+      "problems": [
+        {
+          "id": 268,
+          "title": "Missing Number",
+          "optional": false
+        },
+        {
+          "id": 560,
+          "title": "Subarray Sum Equals K",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "week": 13,
+      "topic": "位运算、前缀和、树状数组、排序",
+      "problems": [
+        {
+          "id": 525,
+          "title": "Contiguous Array",
+          "optional": false
+        },
+        {
+          "id": 974,
+          "title": "Subarray Sums Divisible by K",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "week": 13,
+      "topic": "位运算、前缀和、树状数组、排序",
+      "problems": [
+        {
+          "id": 304,
+          "title": "Range Sum Query 2D - Immutable",
+          "optional": false
+        },
+        {
+          "id": 307,
+          "title": "Range Sum Query - Mutable",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "week": 13,
+      "topic": "位运算、前缀和、树状数组、排序",
+      "problems": [
+        {
+          "id": 729,
+          "title": "My Calendar I",
+          "optional": false
+        },
+        {
+          "id": 148,
+          "title": "Sort List",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "week": 13,
+      "topic": "位运算、前缀和、树状数组、排序",
+      "problems": [
+        {
+          "id": 912,
+          "title": "Sort an Array",
+          "optional": false
+        },
+        {
+          "id": 75,
+          "title": "Sort Colors",
+          "optional": false
+        },
+        {
+          "id": 315,
+          "title": "Count of Smaller Numbers After Self",
+          "optional": true
+        }
+      ]
+    }
+  ]
+}
