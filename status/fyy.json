@@ -1,6 +1,16 @@
 {
   "member": "fyy",
-  "lastCheckedAt": "2026-09-15T05:53:16.240Z",
+  "lastCheckedAt": "2026-09-15T06:52:35.241Z",
   "lastError": null,
-  "accepted": {}
+  "accepted": {
+    "1": {
+      "status": "Accepted",
+      "problemId": 1,
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "submissionId": "2142293150",
+      "timestamp": "1789453810",
+      "detectedAt": "2026-09-15T06:30:19.277Z"
+    }
+  }
 }
