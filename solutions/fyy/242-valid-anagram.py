@@ -24,6 +24,5 @@ class Solution:
             return True
         else:
             return False
-    
 # @lc code=end
 
