@@ -1,6 +1,6 @@
 {
   "member": "fyy",
-  "lastCheckedAt": "2026-09-19T04:09:00.447Z",
+  "lastCheckedAt": "2026-09-19T04:38:27.134Z",
   "lastError": null,
   "accepted": {
     "1": {
@@ -38,6 +38,15 @@
       "submissionId": "2143321089",
       "timestamp": "1789537727",
       "detectedAt": "2026-09-16T05:51:57.704Z"
+    },
+    "238": {
+      "status": "Accepted",
+      "problemId": 238,
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "submissionId": "2146274961",
+      "timestamp": "1789792214",
+      "detectedAt": "2026-09-19T04:30:27.331Z"
     },
     "242": {
       "status": "Accepted",
