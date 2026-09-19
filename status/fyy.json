@@ -1,6 +1,6 @@
 {
   "member": "fyy",
-  "lastCheckedAt": "2026-09-19T04:38:27.134Z",
+  "lastCheckedAt": "2026-09-19T04:46:27.151Z",
   "lastError": null,
   "accepted": {
     "1": {
@@ -11,6 +11,15 @@
       "submissionId": "2142293150",
       "timestamp": "1789453810",
       "detectedAt": "2026-09-15T06:30:19.277Z"
+    },
+    "36": {
+      "status": "Accepted",
+      "problemId": 36,
+      "title": "Valid Sudoku",
+      "titleSlug": "valid-sudoku",
+      "submissionId": "2146285289",
+      "timestamp": "1789793082",
+      "detectedAt": "2026-09-19T04:46:27.151Z"
     },
     "49": {
       "status": "Accepted",
