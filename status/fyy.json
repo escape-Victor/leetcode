@@ -1,6 +1,6 @@
 {
   "member": "fyy",
-  "lastCheckedAt": "2026-09-19T04:46:27.151Z",
+  "lastCheckedAt": "2026-09-19T05:06:27.227Z",
   "lastError": null,
   "accepted": {
     "1": {
@@ -65,6 +65,15 @@
       "submissionId": "2144623261",
       "timestamp": "1789641909",
       "detectedAt": "2026-09-17T10:46:09.526Z"
+    },
+    "347": {
+      "status": "Accepted",
+      "problemId": 347,
+      "title": "Top K Frequent Elements",
+      "titleSlug": "top-k-frequent-elements",
+      "submissionId": "2146301425",
+      "timestamp": "1789794372",
+      "detectedAt": "2026-09-19T05:06:27.227Z"
     }
   }
 }
